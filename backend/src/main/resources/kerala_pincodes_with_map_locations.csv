@@ -1,0 +1,101 @@
+Sort ID,Pincode,City,Area,Map Location,,Aadhaar_ID,House names
+1,674422,Thrissur,Commercial Hub,"9.924937, 75.653269",,"""695145542950""",Manjal Veedu
+2,675932,Thiruvananthapuram,Hilltop,"8.505011, 75.048183",,"""271428021641""",Tharavadu
+3,677451,Kozhikode,Central,"8.342711, 76.826512",,"""475496652526""",Poomala
+4,671416,Alappuzha,Heritage Zone,"11.632992, 76.171452",,"""632777822275""",Kizhakke Veedu
+5,674185,Kannur,Central,"11.542582, 76.234021",,"""537125084621""",Thekkini
+6,671182,Palakkad,Commercial Hub,"8.842567, 75.087692",,"""117744189436""",Mavelikara House
+7,673781,Kozhikode,Fort,"9.820259, 76.984782",,"""180142464539""",Ilanjithara
+8,675414,Palakkad,Port,"10.266042, 76.584436",,"""121710616506""",Velluvilakam
+9,679674,Kollam,Tech Park,"11.847734, 75.976179",,"""283551028475""",Puthenpurayil
+10,679978,Kasaragod,Commercial Hub,"8.891138, 76.320136",,"""628761512143""",Chembakassery
+11,672105,Kozhikode,Commercial Hub,"10.598782, 75.580867",,"""576323937879""",Palliyara
+12,679241,Kozhikode,Tech Park,"10.656828, 76.70949",,"""721613820169""",Pathiyil
+13,675752,Palakkad,Market,"11.809156, 75.184669",,"""794868125081""",Nalukettu
+14,676790,Kollam,Greenfield,"11.455627, 76.481137",,"""372253386269""",Mananthavady
+15,677947,Kasaragod,Commercial Hub,"12.196065, 74.811932",,"""514426393721""",Parayil
+16,672738,Kasaragod,Port,"11.894379, 75.164802",,"""197319304432""",Chirayil
+17,679098,Kasaragod,Hilltop,"11.19283, 76.940416",,"""482158037811""",Manaltheeram
+18,674461,Thiruvananthapuram,Fort,"9.264355, 76.229311",,"""307556285323""",Olappurath
+19,677613,Kochi,Heritage Zone,"9.489483, 74.803913",,"""365793332968""",Kalarikkal
+20,671355,Palakkad,Tech Park,"9.231034, 75.848777",,"""563631580484""",Mullassery
+21,676398,Kollam,Heritage Zone,"11.23391, 76.406395",,"""318563475348""",Neelampurath
+22,679590,Thiruvananthapuram,Tech Park,"8.818527, 75.917185",,"""179677939050""",Kottaram
+23,673095,Alappuzha,Tech Park,"9.890194, 75.70267",,"""432180382778""",Mullakkal
+24,672864,Thrissur,Tech Park,"10.33839, 75.527743",,"""003268327030""",Elanjipoyil
+25,672289,Thiruvananthapuram,Beach,"11.591755, 76.485835",,"""857452036725""",Arakkal
+26,674380,Kannur,Beach,"11.864957, 76.670519",,"""212141792522""",Kalluvathukkal
+27,674060,Thrissur,Market,"12.243845, 75.260051",,"""121700225314""",Thuruthy
+28,673350,Kannur,Beach,"9.176636, 75.920351",,"""058859199879""",Panayil
+29,675844,Kannur,Commercial Hub,"12.246203, 75.610715",,"""014768326131""",Thekkanattu
+30,671128,Kochi,Fort,"11.749953, 74.959493",,"""310566544681""",Vallikkatt
+31,671262,Kasaragod,Heritage Zone,"10.573653, 76.374946",,"""202768865650""",Koovakkatt
+32,672832,Kochi,Port,"9.143896, 76.865691",,"""769090174693""",Kuzhivelil
+33,673250,Malappuram,Hilltop,"12.357801, 76.02668",,"""636518969732""",Thundathil
+34,674887,Thiruvananthapuram,Greenfield,"12.203073, 75.04277",,"""586907194077""",Alangattu
+35,673426,Kasaragod,Heritage Zone,"9.984116, 76.070619",,"""208670181714""",Parayankunnu
+36,679150,Kollam,Commercial Hub,"9.384647, 75.223518",,"""188664783713""",Mathilakom
+37,679578,Malappuram,Heritage Zone,"8.703276, 75.682275",,"""400500071233""",Edathil
+38,675283,Malappuram,Commercial Hub,"8.87241, 75.293273",,"""748151983399""",Pulickal
+39,677180,Kozhikode,Heritage Zone,"10.752003, 75.6849",,"""269140817293""",Chittilappilly
+40,676312,Kasaragod,Hilltop,"11.313625, 74.994605",,"""382403057869""",Kadammanitta
+41,672132,Thiruvananthapuram,Heritage Zone,"10.957761, 77.024131",,"""369256358395""",Valiyaveedu
+42,678957,Alappuzha,Commercial Hub,"8.74215, 75.4702",,"""973904724629""",Kalathiparambil
+43,673777,Kochi,Central,"11.386347, 76.154875",,"""748217038570""",Karthikapuram
+44,676792,Thrissur,Fort,"11.172085, 77.053503",,"""762078696582""",Kaithakkal
+45,678784,Malappuram,Fort,"10.659237, 76.322061",,"""244417412732""",Nediyavilakom
+46,671495,Kozhikode,Hilltop,"9.981249, 76.753897",,"""782829208815""",Perumbillikkunne
+47,671847,Thrissur,Port,"9.703155, 75.041466",,"""050834504998""",Thayyil
+48,679083,Kollam,Heritage Zone,"12.356731, 76.292888",,"""938941017768""",Perincheril
+49,675169,Thiruvananthapuram,Beach,"11.922563, 75.404576",,"""172726418289""",Vadakkekara
+50,672013,Thiruvananthapuram,Beach,"9.344336, 75.26046",,"""288723048085""",Thayyilparambil
+51,679667,Kochi,Port,"9.258362, 75.897062",,"""800342707116""",Pulimoottil
+52,674078,Kasaragod,Heritage Zone,"12.314991, 76.741989",,"""734417883706""",Kudilil
+53,676025,Malappuram,Hilltop,"9.922658, 76.338226",,"""658114469991""",Oorakath
+54,677900,Kasaragod,Greenfield,"9.377976, 75.543074",,"""919948574824""",Kolathur
+55,674190,Palakkad,Commercial Hub,"10.795309, 76.522295",,"""828828451378""",Vattappalli
+56,677104,Thiruvananthapuram,Tech Park,"9.455239, 76.64589",,"""541540468593""",Malavika
+57,671877,Palakkad,Beach,"11.772959, 77.055868",,"""246215216333""",Cherukara
+58,677077,Malappuram,Tech Park,"10.828704, 75.841367",,"""932031334325""",Illathupadi
+59,671422,Thiruvananthapuram,Heritage Zone,"11.159634, 75.960116",,"""383823090608""",Puthuvayal
+60,674000,Kollam,Central,"8.453507, 76.084713",,"""697519135403""",Thayyilparambil
+61,676989,Thrissur,Hilltop,"12.27184, 76.824795",,"""676429578074""",Karakkatt
+62,672755,Kochi,Market,"10.990558, 76.579413",,"""925138967441""",Puthenpurayil
+63,676964,Kasaragod,Beach,"11.945031, 74.783785",,"""083607668956""",Varikkassery
+64,674946,Kasaragod,Central,"9.158512, 77.045441",,"""381313586596""",Puthenveedu
+65,672098,Malappuram,Tech Park,"9.844665, 75.343873",,"""361614611160""",Valliamma
+66,678014,Kozhikode,Hilltop,"9.504838, 75.991917",,"""902250945364""",Karuvannur
+67,671091,Kollam,Hilltop,"11.207641, 75.215327",,"""156427908600""",Thalakulam
+68,672551,Kollam,Commercial Hub,"11.405702, 76.713909",,"""115450070226""",Vadassery
+69,671541,Kollam,Tech Park,"9.267989, 75.51476",,"""662759298325""",Erambilli
+70,671209,Palakkad,Commercial Hub,"11.421335, 75.755405",,"""439674301738""",Kandoth
+71,674702,Thrissur,Heritage Zone,"12.042793, 76.125699",,"""131863375556""",Thrikkanapuram
+72,671187,Palakkad,Beach,"10.692758, 76.203003",,"""791233747768""",Kaniyampatta
+73,674058,Alappuzha,Market,"8.7381, 76.307806",,"""351540389947""",Edappally
+74,671191,Kannur,Central,"12.159108, 75.638281",,"""032427531369""",Manjooran
+75,675677,Malappuram,Heritage Zone,"11.957959, 76.737597",,"""797624500334""",Puthenveettil
+76,674861,Alappuzha,Fort,"9.424754, 76.623956",,"""846881627064""",Vilayil
+77,678101,Thiruvananthapuram,Heritage Zone,"11.46022, 76.412543",,"""105113243163""",Kadambanad
+78,673126,Kollam,Heritage Zone,"11.503221, 75.158754",,"""892537039027""",Pullukunnel
+79,671220,Kochi,Heritage Zone,"10.53322, 75.865565",,"""858157545610""",Mannarath
+80,672000,Thiruvananthapuram,Commercial Hub,"10.254439, 76.33626",,"""891658683060""",Mundur
+81,676565,Kochi,Port,"11.66612, 75.37592",,"""205988601449""",Perumpadappu
+82,673272,Malappuram,Beach,"11.489862, 75.768962",,"""276690457815""",Kaniyampuzha
+83,677016,Kozhikode,Beach,"10.992792, 74.914561",,"""975298856329""",Thayyilparambil
+84,679389,Palakkad,Greenfield,"9.066439, 76.144605",,"""294545394301""",Cheruvilakkal
+85,678821,Kochi,Market,"10.908815, 75.666977",,"""396143700940""",Moothedath
+86,678952,Alappuzha,Tech Park,"9.220105, 75.106248",,"""723296296032""",Vattappara
+87,675165,Malappuram,Commercial Hub,"9.221864, 76.834471",,"""361252628041""",Payyappilly
+88,672570,Kollam,Heritage Zone,"11.023237, 74.782659",,"""396147841143""",Nedumangad
+89,676913,Alappuzha,Tech Park,"9.16141, 75.885944",,"""902245413649""",Kodungallur
+90,679140,Thrissur,Beach,"8.330553, 75.757691",,"""903325595796""",Adoor
+91,673346,Alappuzha,Beach,"9.847317, 76.955794",,"""356470172109""",Chalakkal
+92,671006,Kozhikode,Hilltop,"11.196637, 75.241963",,"""324389345575""",Karuvally
+93,671321,Palakkad,Hilltop,"10.083547, 76.748813",,"""216465568011""",Pullancheri
+94,672833,Kasaragod,Heritage Zone,"10.745736, 76.006802",,"""070626738433""",Kattikkal
+95,673542,Kannur,Commercial Hub,"8.310211, 74.787273",,"""188037251475""",Vadasserikkara
+96,678180,Palakkad,Beach,"8.951294, 75.919839",,"""129226804084""",Puthumana
+97,676100,Malappuram,Port,"9.44947, 76.369012",,"""064767813009""",Mulamoottil
+98,672434,Kannur,Market,"8.790751, 76.37442",,"""755797190706""",Oorali
+99,672550,Kollam,Fort,"11.44082, 77.029596",,"""936545455143""",Peedikakkal
+100,679031,Alappuzha,Central,"12.184227, 75.427726",,"""346427809995""",Vallithol
